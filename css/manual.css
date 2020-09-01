@@ -12,13 +12,14 @@ body{
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: repeat(12, 1fr);
     padding-top: 10px;
-    
-    background-size: 20% 20%;
-    
-
+    background: linear-gradient(-45deg,
+    rgb(158, 195, 255),
+    #8a76ff,  turquoise
+    );
+    background-size: 400% 400%;
     /*#a0c4ff | turquoise  */
 
-	animation: gradient 10s ease infinite;
+	animation: gradient 33s ease infinite;
 }
 
 @keyframes gradient {
