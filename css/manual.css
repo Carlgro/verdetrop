@@ -99,6 +99,7 @@ body{
     text-align: center;
     color: white;
     font-size: 16px;
+    font-weight: 350;
 }
 
 .boton{
@@ -123,7 +124,7 @@ body{
     border-style: solid none;
     border-width: 2px;
     border-color: white;
-    text-decoration: line-through white;
+    /*text-decoration: line-through white;*/
 }
 
 .mail{
