@@ -1,15 +1,15 @@
 body{
     margin-top: 0px;
-    background-color:#a0c4ff;
+    /*background:linear-gradient(white, red 20% );*/
     width: 100%;
     height: 100vh;
-    /*background: linear-gradient(-45deg,
-    rgb(158, 195, 255),
-    #8a76ff,  turquoise
+    background: linear-gradient(-45deg,
+    
+    #8a76ff, rgb(158, 195, 255), #77DD77
     );
-    background-size: 400% 400%;*/
+    background-size: 400% 400%;
     /*#a0c4ff | turquoise  */
-	animation: gradient 33s ease infinite;
+	animation: gradient 60s ease infinite;
 }
 
 
