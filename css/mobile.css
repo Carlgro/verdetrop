@@ -1,13 +1,13 @@
 html{
-    background-color: white;
-    background: linear-gradient(white, whitesmoke, red);
+    background-color: red;
+    height: 100vh;
 }
 
 
 body{
     margin-top: 0px;
     width: 100%;
-    height: 100vh;
+    height: 100%;
 }
 
 .area{
@@ -38,7 +38,7 @@ body{
     grid-column-end: 13;
     grid-row-start: 2; 
     grid-row-end: 13;
-    padding-top: 25px;
+    padding-top: 0px;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: 50% 50%;
