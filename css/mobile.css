@@ -125,8 +125,10 @@ body{
 }
 
 .mail_text{
-    font-size: 19px;   
+    font-size: 15px;   
     color: #4F5F37;
+    text-align: left;
+    padding-left: 10px;
 }
 
 .sqr:hover{
